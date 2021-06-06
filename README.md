@@ -36,5 +36,5 @@ MIT License.
 
 ## Authors
 * Marcin Salamandra - all functionalities connected with drone
-* MSc Arkadiusz Mielczarek - gnuplot API files(which were given to all students to help them develop their projects)
+* MSc Arkadiusz Mielczarek - gnuplot API files
 
