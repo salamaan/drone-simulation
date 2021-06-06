@@ -7,6 +7,11 @@ Clone this repository:
 $ git clone https://github.com/salamaan/drone-simulation.git
 ```
 
+Install gnuplot:
+```
+$ sudo apt-get install gnuplot
+```
+
 Create directory for object files:
 ```
 $ make build
